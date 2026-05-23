@@ -18,7 +18,15 @@ This archive contains several years of original terrain production work and incl
 - Ready-to-pack project files for those wishing to study or rebuild the terrain pipeline  
 
 > ⚠️ Please Note: **As with previous source releases, the files are provided **as-is**, directly from the original production pipeline.**
+
 ---
+## 🤝 Download
+
+- **Isla Nueva Source Files (Google Drive Mirror)**  
+  https://drive.google.com/drive/folders/10AYAhMhem9V10ajRTWfGdfyHZEazUxVn?usp=sharing
+  
+---
+
 ## What Is Not Included
 
 To preserve clarity, legality, and maintainability, this release **does not include**:
@@ -44,12 +52,6 @@ This repository is shared under the **Arma Public License Share Alike (ADPL-SA)*
 - Use the content commercially
 
 More info on the license: [ADPL-SA License Terms](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)
-
----
-## 🤝 Download
-
-- **Isla Nueva Source Files (Google Drive Mirror)**  
-  https://drive.google.com/drive/folders/10AYAhMhem9V10ajRTWfGdfyHZEazUxVn?usp=drive_link
 
 ---
 ## Additional Sources
