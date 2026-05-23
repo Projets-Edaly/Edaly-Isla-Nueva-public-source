@@ -68,7 +68,7 @@ You can also find the source files for our previously released **Libertad** mods
 President: Nikita  
 Vice-President: Lyeed  
 Secretary-General: Kira  
-Treasurer: Volgy  
+Treasurer: Nikita  
 
 Members:  
 Kira, Nikita, Lyeed, Ackyloss, Cornibard, Moonie, Paul, Xentrail,  
